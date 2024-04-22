@@ -1,6 +1,10 @@
 # !Quest! #
 
-- Modellare la struttura di una **tabella** per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario. [x]
+1. Modellare la struttura di una **tabella** per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario. [x]
+<br />
+<br />
+<br />
+
 
 ## DATA ##
 
@@ -28,6 +32,14 @@
 - `seller_sales_history` | TEXT - NULL - DEFAULT("first-sale") |
 - `payment_options` | TEXT - NULL - DEFAULT("Cash-only") |
 - `available_to_test` | BOOLEAN - NULL - DEFAULT(0) |
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### EXAMPLE ### 
 >Database's table with some examples
